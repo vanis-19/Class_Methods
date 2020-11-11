@@ -1,0 +1,14 @@
+3. Static Method
+A static method can be called without an object for that class, 
+using the class name directly. If you want to do something extra with a 
+class we use static methods.
+
+2. Class Method
+As we are working with ClassMethod we use the cls keyword.
+Class variables are used with class methods.
+
+
+1. Instance Method
+As we are working with instance variables we use self keyword.
+
+Note: Instance variables are used with instance methods.
